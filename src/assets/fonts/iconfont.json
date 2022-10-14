@@ -1,0 +1,23 @@
+{
+  "id": "3685303",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "32016187",
+      "name": "上传文件",
+      "font_class": "shangchuanwenjian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "32016195",
+      "name": "下载底稿",
+      "font_class": "xiazaidigao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
